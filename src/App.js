@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
      <h1>Salman khan</h1>
+     <h1>Salman khan</h1>
     </div>
   );
 }
