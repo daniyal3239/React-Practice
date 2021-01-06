@@ -1,12 +1,10 @@
 
 import './App.css';
-
+import {Landing} from "./AllComponent/Landing/Landing";
 function App() {
   return (
     <div className="App">
-     <h1>Salman khan</h1>
-     <h1>Salman khan</h1>
-     <h1>Salman Shaikh</h1>
+    <Landing />
     </div>
   );
 }
